@@ -30,7 +30,6 @@ public class Menu {
           break;
 
         default:
-
           System.out.println("Opcao Inválida");
           break;
       }
