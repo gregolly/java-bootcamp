@@ -30,7 +30,7 @@ public class Menu {
           break;
 
         default:
-          System.out.println("Opcao Inválida");
+          System.out.println("Opcão Inválida");
           break;
       }
     } while (opcao < 3);
